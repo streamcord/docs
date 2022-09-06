@@ -5,7 +5,7 @@
 **1.** Create a role to be added to members when they go live.\
 For example, you could call it "Now Live" or "Streaming on Twitch".
 
-![Create a new role in your server.](<../.gitbook/assets/image (29).png>)
+![Create a new role in your server.](<../.gitbook/assets/image (47).png>)
 
 **2.** Drag the Streamcord role to the top of your server's role list.\
 If you don't want it to be at the very top, drag it above your live role.
@@ -14,7 +14,7 @@ If you don't want it to be at the very top, drag it above your live role.
 
 **3.** Give Streamcord the _Manage Roles_ permission.
 
-![Under 'General Server Permissions', turn on 'Manage Roles'.](<../.gitbook/assets/image (24).png>)
+![Under 'General Server Permissions', turn on 'Manage Roles'.](<../.gitbook/assets/image (53).png>)
 
 **4.** Click "Save changes".
 
@@ -28,13 +28,13 @@ If you don't want it to be at the very top, drag it above your live role.
 
 **4.** Select the "Live Role" tab.
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (38).png>)
 
 **5.** Click the "Add a Live Role" button.
 
 **6.** Under the "Live role" dropdown, select the role that we created earlier.
 
-![](<../.gitbook/assets/image (49).png>)
+![](<../.gitbook/assets/image (25).png>)
 
 {% hint style="info" %}
 You may notice that some roles are not able to be selected. Roles that meet any of the following conditions are not eligible to be your server's live role:
@@ -48,6 +48,6 @@ You may notice that some roles are not able to be selected. Roles that meet any 
 
 **8.** Click "Save changes" on the floating bar at the bottom of the screen.
 
-![](<../.gitbook/assets/image (32).png>)
+![](<../.gitbook/assets/image (42).png>)
 
 Note that it may take some time for Streamcord to update roles for some members. If you set up Live Role while someone is actively streaming, the role will not be added until they start another stream.

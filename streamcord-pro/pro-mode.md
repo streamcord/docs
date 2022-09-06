@@ -12,7 +12,7 @@ When Pro mode is _disabled_, the dashboard will use the main bot (Streamcord) fo
 
 However, when Pro mode is _enabled_, the Pro-Bot (Streamcord Pro) will be used for notifications and live role.
 
-![](<../.gitbook/assets/image (10).png>)
+![](<../.gitbook/assets/image (41).png>)
 
 {% hint style="info" %}
 &#x20;**Note:** Streamcord Pro is a completely separate bot and requires another invitation. You can invite the Pro-Bot from [https://link.streamcord.io/pro\_invite](https://link.streamcord.io/pro\_invite).

@@ -30,7 +30,7 @@ In order for click analytics to work, you must use the `{user.twitch_url}` varia
 
 This is because we can only track traffic that comes to our own servers. Therefore, the link that shows up in your notification message will look slightly different. For example, a link to Monstercat's stream might look like [`https://streamcord.tv/link/monstercat/Ym9KVjUg`](https://streamcord.tv/link/monstercat/Ym9KVjUg). However, as mentioned above, anyone who clicks on the link will be redirected to the relevant Twitch page instantly.
 
-![A notification message with Click Analytics enabled.](<../../.gitbook/assets/image (26).png>)
+![A notification message with Click Analytics enabled.](<../../.gitbook/assets/image (4).png>)
 
 ## How to enable Click Analytics
 
@@ -38,7 +38,7 @@ This is because we can only track traffic that comes to our own servers. Therefo
 
 To enable Click Analytics on a new notification, follow the same directions on how to [add a Spyglass notification](add-spyglass.md). After you click the "Use Spyglass" checkbox, another checkbox titled "Track click analytics" will appear. Check that box and finish creating the notification.
 
-![The "Add notification" page, showing options for "Use Spyglass" and "Track click analytics" checked.](<../../.gitbook/assets/image (21).png>)
+![The "Add notification" page, showing options for "Use Spyglass" and "Track click analytics" checked.](<../../.gitbook/assets/image (8).png>)
 
 ### ~~For an existing notification~~
 

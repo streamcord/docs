@@ -29,7 +29,7 @@ If Streamcord's slash commands are not displayed in the server, follow the steps
 
 If you've set up the proper permissions, you'll be sent a message just like this one:
 
-![Streamcord Help Command](<.gitbook/assets/image (13).png>)
+![Streamcord Help Command](<.gitbook/assets/image (45).png>)
 
 From here, you can get links to our website, dashboard, and other relevant sites.
 

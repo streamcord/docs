@@ -12,7 +12,7 @@ You can now set up to 5 Live Role configurations on your servers! Each configura
 
 An example configuration is shown below, where server members with the "Very Cool Person" role will receive an extra live role compared to normal members.
 
-![](<../.gitbook/assets/image (35).png>)
+![](<../.gitbook/assets/image (40).png>)
 
 ## Filter role blacklist mode
 
@@ -20,4 +20,4 @@ Filter roles now support an additional mode: blacklist mode. Using blacklist mod
 
 You can designate a filter role to operate in blacklist mode by selecting the "Blacklist" option under the "Filter mode" dropdown on your server's Live Role dashboard page.
 
-![](<../.gitbook/assets/image (45).png>)
+![](<../.gitbook/assets/image (24).png>)

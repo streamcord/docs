@@ -24,7 +24,7 @@ Give Streamcord the following permissions for your notifications channel:
 * Use External Emoji
 * Mention @everyone, @here, and All Roles
 
-![List of permissions to enable. Click to expand](<../.gitbook/assets/image (39).png>)
+![List of permissions to enable. Click to expand](<../.gitbook/assets/image (13).png>)
 
 ## My notifications are disabled
 
@@ -44,7 +44,7 @@ Notifications are automatically disabled when Streamcord encounters an error wit
 
 **NOTE:** The error _may_ not disappear immediately after clicking the "Re-enable notifications" button. In such a case, the error should go away once the user starts the next stream and Streamcord successfully sends the notification.
 
-![](<../.gitbook/assets/image (23).png>)
+![](<../.gitbook/assets/image (27).png>)
 
 ## My dashboard displays an error code
 

@@ -4,13 +4,13 @@
 
 Make sure that Streamcord has the **Manage Roles** permission (alternatively, you can give Streamcord the Administrator permission), and ensure that the Streamcord role is at the **top of your server's role list.**&#x20;
 
-![Streamcord Role Permissions](<../.gitbook/assets/image (4).png>)
+![Streamcord Role Permissions](<../.gitbook/assets/image (50).png>)
 
 In order to recieve the live role, the user **must have** the purple streaming status on Discord.&#x20;
 
 ![Purple Streaming Status on Discord](../.gitbook/assets/msedge\_TCCSU4d8jr.png)
 
-![User Modal - Purple Streaming Status](<../.gitbook/assets/image (34).png>)
+![User Modal - Purple Streaming Status](<../.gitbook/assets/image (14).png>)
 
 To get the purple streaming status, a user **must**:
 

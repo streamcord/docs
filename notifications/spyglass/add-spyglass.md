@@ -8,7 +8,7 @@
 
 **3.** From the "Roles/Members" selection, add Streamcord.
 
-![Add Streamcord to the channel's permission overrides.](<../../.gitbook/assets/image (53).png>)
+![Add Streamcord to the channel's permission overrides.](<../../.gitbook/assets/image (10).png>)
 
 **4.** Allow Streamcord to have the following permissions in the channel:
 
@@ -19,7 +19,7 @@
 * Use External Emoji
 * Mention @everyone, @here, and All Roles
 
-![Give Streamcord the needed permissions.](<../../.gitbook/assets/image (12).png>)
+![Give Streamcord the needed permissions.](../../.gitbook/assets/image.png)
 
 **5.** Click "Save changes".
 
@@ -35,7 +35,7 @@
 * Check the box labelled "Use Spyglass".
 * Click the "Add notification" button at the bottom of the page.
 
-![](<../../.gitbook/assets/image (44).png>)
+![](<../../.gitbook/assets/image (35).png>)
 
 {% hint style="success" %}
 Congrats, you've just added your first Spyglass notification!

@@ -8,7 +8,7 @@ description: >-
 
 First, make sure you have developer mode turned on. You can enable it under Settings -> Appearance.
 
-![Enable the "Developer Mode" toggle under Settings -> Appearance.](<../.gitbook/assets/image (16).png>)
+![Enable the "Developer Mode" toggle under Settings -> Appearance.](<../.gitbook/assets/image (5).png>)
 
 ## How to mention a User?
 
@@ -16,7 +16,7 @@ First, make sure you have developer mode turned on. You can enable it under Sett
 2. Under the Streamcord dashboard, add or edit a notification. Under the message section, paste the ID in the desired spot. Then, add `<@` before the role ID, and `>` after. \
    For example, if your user ID is `375805687529209857`, the end result should look like `<@375805687529209857>`.
 
-![How to copy a user's ID.](<../.gitbook/assets/image (5).png>)
+![How to copy a user's ID.](<../.gitbook/assets/image (37).png>)
 
 ## How to mention a Role?
 
@@ -25,4 +25,4 @@ First, make sure you have developer mode turned on. You can enable it under Sett
 3. Under the Streamcord dashboard, add or edit a notification. Under the message section, paste the ID in the desired spot. Then, add `<@&` before the role ID, and `>` after. \
    For example, if your role ID is `375805909219147807`, the end result should look like `<@&375805909219147807>`.
 
-![How to copy a role's ID.](<../.gitbook/assets/image (8).png>)
+![How to copy a role's ID.](<../.gitbook/assets/image (20).png>)

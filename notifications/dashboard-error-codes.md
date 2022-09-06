@@ -12,7 +12,7 @@ If you encounter an error code not listed on this page, please [reach out to our
 
 Under your server's [dashboard ](https://dash.streamcord.io/)page, find the "Notifications" tab. Find the 5-digit number in parenthesis under the notification's "Last Post" section.
 
-![](<../.gitbook/assets/image (40).png>)
+![](<../.gitbook/assets/image (16).png>)
 
 ## Why are my notifications disabled?
 
@@ -22,4 +22,4 @@ After fixing any permission errors, you can re-enable your notifications by clic
 
 **NOTE:** The error _may_ not disappear immediately after clicking the "Re-enable notifications" button. In such a case, the error should go away once the user starts the next stream and Streamcord successfully sends the notification.
 
-![](<../.gitbook/assets/image (23).png>)
+![](<../.gitbook/assets/image (27).png>)

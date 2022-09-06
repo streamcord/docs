@@ -18,7 +18,7 @@ description: >-
 
 **3.** From the "Roles/Members" selection, add Streamcord.
 
-![Add Streamcord to the channel's permission overrides.](<../../.gitbook/assets/image (53).png>)
+![Add Streamcord to the channel's permission overrides.](<../../.gitbook/assets/image (10).png>)
 
 **4.** Allow Streamcord to have the following permissions in the channel:
 
@@ -29,7 +29,7 @@ description: >-
 * Use External Emoji
 * Mention @everyone, @here, and All Roles
 
-![Give Streamcord the needed permissions.](<../../.gitbook/assets/image (12).png>)
+![Give Streamcord the needed permissions.](../../.gitbook/assets/image.png)
 
 **5.** Click "Save changes".
 
@@ -43,12 +43,12 @@ description: >-
 
 **4.** Under the "Stream notifications" section, click "Add notification".
 
-![Click the "Add notification" link.](<../../.gitbook/assets/image (36).png>)
+![Click the "Add notification" link.](<../../.gitbook/assets/image (29).png>)
 
 **5.** Fill in the streamer's name, choose your announcement channel, and type a custom message.\
 In this example, we're adding a notification for _summit1g_ in the _#live-streams_ channel.
 
-![Enter your streamer, channel, and custom message.](<../../.gitbook/assets/image (28).png>)
+![Enter your streamer, channel, and custom message.](<../../.gitbook/assets/image (46).png>)
 
 **6.** Click the "Add notification" button.
 
