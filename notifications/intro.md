@@ -34,15 +34,16 @@ Legacy notifications are the first version of Streamcord's notifications.
 
 ### Compare types of notifications
 
-|                                              |    Legacy   |                         Spyglass                        |
-| -------------------------------------------- | :---------: | :-----------------------------------------------------: |
-| Delivery time                                | 3–5 minutes |                       1–3 minutes                       |
-| Custom message                               |     Yes     |                           Yes                           |
-| Custom embed color                           |     Yes     |                           Yes                           |
-| Supports [variables](variables.md)           |     Yes     |                           Yes                           |
-| Stream end cleanup                           |      —      |                           Yes                           |
-| Custom thumbnail                             |      —      | With [Streamcord Pro](https://streamcord.io/twitch/pro) |
-| [Auto crosspost](spyglass/auto-crosspost.md) |      —      | With [Streamcord Pro](https://streamcord.io/twitch/pro) |
+|                                                            |    Legacy    |                         Spyglass                        |
+| ---------------------------------------------------------- | :----------: | :-----------------------------------------------------: |
+| Delivery time                                              | 3–10 minutes |                       1–3 minutes                       |
+| Custom message                                             |      Yes     |                           Yes                           |
+| Custom embed color                                         |      Yes     |                           Yes                           |
+| Supports [variables](variables.md)                         |      Yes     |                           Yes                           |
+| Stream end message                                         |       —      |                           Yes                           |
+| [Title & Game Filters](spyglass/game-and-title-filters.md) |       —      |                           Yes                           |
+| Custom thumbnail                                           |       —      | With [Streamcord Pro](https://streamcord.io/twitch/pro) |
+| [Auto crosspost](spyglass/auto-crosspost.md)               |       —      | With [Streamcord Pro](https://streamcord.io/twitch/pro) |
 
 #### What is Stream end cleanup?
 

@@ -1,20 +1,14 @@
-# Title & Game Filters
+# Game and Title Filters
 
-{% hint style="info" %}
-**This documentation page is currently under construction.**
-{% endhint %}
+Game & Title Filters allow you to choose when Streamcord sends a notification based on the stream's title or game that is currently being played.
 
-{% hint style="info" %}
-**Title & Game Filters are currently in closed beta for** [**Partners**](https://streamcord.io/twitch/partners) **and** [**Pro subscribers**](https://streamcord.io/twitch/pro)**.** This feature will be gradually released to all users in the near future. Join our [Discord server](https://discord.gg/streamcord) for announcements and updates regarding new features.
-{% endhint %}
-
-Title & Game filters allow you to choose when Streamcord sends a notification based on the stream's title or game that is currently being played.
+{% embed url="https://www.youtube.com/watch?v=C3JAQ0S2XJ0" %}
 
 ## How filters work
 
 ### Limits
 
-Title & Game Filters only work for Spyglass notifications. They do not work for [Legacy](../legacy/) or [Live Role](../../live-role/live-role-notifications/) Notifications.
+Game and Title Filters only work for Spyglass notifications. They do not work for [Legacy](../legacy/) or [Live Role](../../live-role/live-role-notifications/) Notifications.
 
 Additionally, there are limits on how many and which rules may be applied to notifications, depending on your Streamcord Pro subscription:
 
@@ -43,7 +37,7 @@ Chances are, you won't need something that complicated. The main things to remem
 While Regular Expressions are powerful, they can also be very difficult and awkward to use. If you're unfamiliar with them, we recommend checking out a [tutorial on RegEx](https://www.sitepoint.com/learn-regex/) first.
 {% endhint %}
 
-Check [How to design your filter rules](title-and-game-filters.md#how-to-design-your-filter-rules) for examples on how to create RegEx rules.
+Check [How to design your filter rules](game-and-title-filters.md#how-to-design-your-filter-rules) for examples on how to create RegEx rules.
 
 {% hint style="warning" %}
 Please note that Streamcord support staff will not create Regular Expression patterns for you. While we will do our best to assist everyone, we simply do not have enough time to teach everyone how to use RegEx. Check below for common scenarios and their patterns.

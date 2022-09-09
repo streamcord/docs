@@ -17,7 +17,7 @@
   * [Transfer notifications to Spyglass](notifications/spyglass/transfer-notifications-to-spyglass.md)
   * [Auto Crosspost](notifications/spyglass/auto-crosspost.md)
   * [Click Analytics](notifications/spyglass/click-analytics.md)
-  * [Title & Game Filters](notifications/spyglass/title-and-game-filters.md)
+  * [Game and Title Filters](notifications/spyglass/game-and-title-filters.md)
 * [Using Variables](notifications/variables.md)
 * [Mentioning Users and Roles](notifications/mentioning-users-roles.md)
 * [Common Issues](notifications/issues.md)

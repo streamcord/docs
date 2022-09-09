@@ -1,12 +1,12 @@
 # Introduction to PTB
 
+{% hint style="warning" %}
+**Streamcord's PTB program has been discontinued as of September 6th, 2022.** This documentation page will remain for posterity.
+{% endhint %}
+
 Streamcord PTB allows everyone to test the next major version of Streamcord's backend code.
 
 The Streamcord PTB bot must be invited to your server in order to use PTB features.
-
-{% hint style="success" %}
-**Streamcord PTB is a public beta testing program.** As such, features may break or be removed at any time.
-{% endhint %}
 
 ### What does PTB include now?
 

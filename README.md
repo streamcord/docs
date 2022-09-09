@@ -20,10 +20,6 @@ To get a full understanding of Streamcord's features, we also recommend reading 
 
 ### Streamer Notifications
 
-{% content-ref url="notifications/legacy/add-legacy.md" %}
-[add-legacy.md](notifications/legacy/add-legacy.md)
-{% endcontent-ref %}
-
 {% content-ref url="notifications/spyglass/add-spyglass.md" %}
 [add-spyglass.md](notifications/spyglass/add-spyglass.md)
 {% endcontent-ref %}

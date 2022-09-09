@@ -2,6 +2,7 @@
 description: >-
   Don't know what to do after inviting Streamcord to your server? We'll show you
   how to get started!
+coverY: 0
 ---
 
 # Getting Started

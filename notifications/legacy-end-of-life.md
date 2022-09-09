@@ -21,7 +21,7 @@ Before the final deprecation date for Legacy, you will be able to [manually tran
 ## Important & upcoming dates
 
 * **September 4, 2021:** Public beta release for Spyglass.
-* **TBD, 2022:** Full stable release for Spyglass and initial deprecation period for Legacy. You will not be able to create new Legacy notifications but will still be able to edit and delete your existing ones.
+* **TBD, September 2022:** Full stable release for Spyglass and initial deprecation period for Legacy. You will not be able to create new Legacy notifications but will still be able to edit and delete your existing ones.
 * **TBD, 2022:** Final deprecation period for Legacy. The automatic transfer period will start.
 * **TBD, 2022:** 50% of Legacy notifications will be automatically transferred to Spyglass by this date.
 * **TBD, 2022: **_**EOL for Legacy.**_ 100% of Legacy notifications will be automatically transferred, and infrastructure for Legacy will be removed.
