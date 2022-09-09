@@ -8,7 +8,7 @@ You need a live role configured in your server to use Live Role Notifications. F
 
 **2.** Under the live role that you want to enable notifications for, check the "Enable notifications" box.
 
-![Select the "Enable notifications" box.](<../../.gitbook/assets/image (31).png>)
+![Select the "Enable notifications" box.](<../../.gitbook/assets/image (31) (1).png>)
 
 **3.** Choose the text channel for where you want notification messages to be sent, as well as a message template that will be used when sending messages.
 

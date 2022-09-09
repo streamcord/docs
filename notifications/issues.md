@@ -24,7 +24,7 @@ Give Streamcord the following permissions for your notifications channel:
 * Use External Emoji
 * Mention @everyone, @here, and All Roles
 
-![List of permissions to enable. Click to expand](<../.gitbook/assets/image (13).png>)
+![List of permissions to enable. Click to expand](<../.gitbook/assets/image (13) (1).png>)
 
 ## My notifications are disabled
 

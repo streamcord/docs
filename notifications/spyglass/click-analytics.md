@@ -38,7 +38,7 @@ This is because we can only track traffic that comes to our own servers. Therefo
 
 To enable Click Analytics on a new notification, follow the same directions on how to [add a Spyglass notification](add-spyglass.md). After you click the "Use Spyglass" checkbox, another checkbox titled "Track click analytics" will appear. Check that box and finish creating the notification.
 
-![The "Add notification" page, showing options for "Use Spyglass" and "Track click analytics" checked.](<../../.gitbook/assets/image (8).png>)
+![The "Add notification" page, showing options for "Use Spyglass" and "Track click analytics" checked.](<../../.gitbook/assets/image (8) (1).png>)
 
 ### ~~For an existing notification~~
 

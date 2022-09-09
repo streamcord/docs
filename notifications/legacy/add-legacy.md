@@ -29,7 +29,7 @@ description: >-
 * Use External Emoji
 * Mention @everyone, @here, and All Roles
 
-![Give Streamcord the needed permissions.](../../.gitbook/assets/image.png)
+![Give Streamcord the needed permissions.](<../../.gitbook/assets/image (8).png>)
 
 **5.** Click "Save changes".
 

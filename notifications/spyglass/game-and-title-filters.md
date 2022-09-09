@@ -6,6 +6,10 @@ Game & Title Filters allow you to choose when Streamcord sends a notification ba
 
 ## How filters work
 
+{% hint style="warning" %}
+**Filters only work for** [**Spyglass**](./) **notifications.** If you're still using [Legacy](../legacy/) notifications in your server, please [transfer them to Spyglass](transfer-notifications-to-spyglass.md).
+{% endhint %}
+
 ### Limits
 
 Game and Title Filters only work for Spyglass notifications. They do not work for [Legacy](../legacy/) or [Live Role](../../live-role/live-role-notifications/) Notifications.
@@ -51,11 +55,49 @@ This section contains information on how to create your notification filter rule
 
 Let's say you only want Streamcord to send a notification when a streamer is playing Fortnite. In your notification settings, add a new game rule, make sure the mode equals "matches" and set the pattern to `^Fortnite$`. The `^` locks the sequence "Fortnite" to the beginning of the game's name, and the `$` locks it to the end, meaning that the entire game's name must equal the word "Fortnite".
 
+<figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption><p>Example of a filter rule for one game.</p></figcaption></figure>
+
 ### Notify for multiple games
+
+Follow the same instructions as above, but split each game name with the `|` character, and surround your list of game names with parenthesis. For example, if you want to notify for Fortnite, Apex Legends, and Forza Horizon 5, your pattern should look like this:
+
+```regex
+^(Fortnite|Apex Legends|Forza Horizon 5)$
+```
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Example of a filter rule for multiple games.</p></figcaption></figure>
 
 ### Notify for all games except certain ones
 
+Follow the same instructions as one of the above two scenarios, and change the rule's match type to "does not match".&#x20;
+
+<figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption><p>Example of a filter rule for all games except one.</p></figcaption></figure>
+
 ### Notify for a game and keyword in title
 
+For example, let's say that you only want to be notified when a certain Fortnite streamer is playing cash cups. We'll add a game filter rule for Fortnite as described in the sections above, then click "add a new title rule". Under the pattern for the rule, we'll enter "cash cups", along with the flag for case-insensitivity, marked with a leading backtick, and a trailing backtick and the letter "i". Here's what our final pattern looks like:
+
+```regex
+`cash cups`i
+```
+
+Using this pattern will match any version of the string "cash cups" regardless of capitalization, including these variations, and anything in between:
+
+* Cash Cups
+* cAsH cUpS
+* CASH CUPS
+* cash cups
+
+Lastly, we'll change the filter mode at the bottom to "And (require all rules to be met)". This makes sure that we only receive a notification if the streamer is playing Fortnite and has "cash cups" in their stream title. Leaving it as the default option would only require one of those conditions to be met.
+
+<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption><p>Example of a filter rule for a certain game and title keyword.</p></figcaption></figure>
+
 ## How to add a filter
+
+1. Head to your server's page on the [Streamcord Dashboard](https://dash.streamcord.io).
+2. Create a new [Spyglass](./) notification, or edit an existing one.
+3. Under "Show advanced options", scroll to "Game and title filters".
+4. Click "Add a new game rule" to add a filter rule based on the stream's game, or click "Add a new title rule" to add a filter rule based on the stream's title.
+5. If you have multiple filter rules, choose a Filter mode from the list.
+6. Save your changes.
 
