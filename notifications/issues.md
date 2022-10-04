@@ -53,3 +53,10 @@ If your dashboard server notifications page displays an error with a code number
 {% content-ref url="dashboard-error-codes.md" %}
 [dashboard-error-codes.md](dashboard-error-codes.md)
 {% endcontent-ref %}
+
+## My notifications were deleted
+
+In order to keep our systems as efficient as possible, Streamcord may automatically delete notifications that meet one or more of the following requirements:
+
+* The notification has not successfully notified in the past 30 days (meaning an attempt was made to notify, but there was an error due to the bot being removed from the server, insufficient permissions, etc.)
+* The notification has not notified at all in the past 90 days
